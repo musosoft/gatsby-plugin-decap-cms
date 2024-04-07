@@ -7,27 +7,27 @@
     "url": "https://github.com/decaporg/gatsby-plugin-decap-cms/issues"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.13",
+    "@babel/runtime": "^7.24.4",
     "@soda/friendly-errors-webpack-plugin": "1.8.1",
-    "copy-webpack-plugin": "^7.0.0",
-    "html-webpack-plugin": "^5.5.3",
-    "html-webpack-skip-assets-plugin": "^1.0.3",
+    "copy-webpack-plugin": "^12.0.2",
+    "html-webpack-plugin": "^5.6.0",
+    "html-webpack-skip-assets-plugin": "^1.0.4",
     "html-webpack-tags-plugin": "^3.0.2",
     "lodash": "^4.17.21",
-    "mini-css-extract-plugin": "1.6.2",
+    "mini-css-extract-plugin": "2.8.1",
     "netlify-identity-widget": "^1.9.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.20.7",
-    "@babel/core": "^7.20.12",
-    "@changesets/cli": "^2.26.2",
-    "babel-preset-gatsby-package": "^3.13.0-next.0",
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@changesets/cli": "^2.27.1",
+    "babel-preset-gatsby-package": "^3.13.1",
     "cross-env": "^7.0.3",
-    "decap-cms-app": "^3.1.1",
-    "gatsby": "^5.0.0",
+    "decap-cms-app": "^3.1.8",
+    "gatsby": "^5.13.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "webpack": "^5.0.0"
+    "webpack": "^5.91.0"
   },
   "homepage": "https://github.com/decaporg/gatsby-plugin-decap-cms#readme",
   "keywords": [
